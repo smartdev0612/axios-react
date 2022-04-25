@@ -19,20 +19,11 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/jixu1031/axios-react.git"
-  },
   "keywords": [
     "React",
     "axios"
   ],
   "author": "Daniel Morales",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jixu1031/axios-react/issues"
-  },
-  "homepage": "https://github.com/jixu1031/axios-react#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
